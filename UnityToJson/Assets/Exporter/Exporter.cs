@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Exporter {
+public class Exporter : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {

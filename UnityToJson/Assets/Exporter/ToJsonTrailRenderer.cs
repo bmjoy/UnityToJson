@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ToJsonTrailRenderer : MonoBehaviour {
+public class ToJsonTrailRenderer {
 
 	// Use this for initialization
 	void Start () {
