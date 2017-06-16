@@ -11,9 +11,6 @@ public class Exporter : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
-        Camera camera;
-
-		
+        
 	}
 }
