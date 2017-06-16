@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Exporter {
+public class ToJsonGameObject {
 
 	// Use this for initialization
 	void Start () {

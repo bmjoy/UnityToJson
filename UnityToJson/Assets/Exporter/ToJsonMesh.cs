@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Exporter {
+public class ToJsonMesh {
 
 	// Use this for initialization
 	void Start () {
