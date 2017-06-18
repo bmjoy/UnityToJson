@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ToJsonMaterial {
+public class ToJsonShader {
 
-	void ExportMaterial(Material inmat)
+    void ExportShader(Shader inshader)
 	{
 
 	}

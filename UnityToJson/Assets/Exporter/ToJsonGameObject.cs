@@ -4,13 +4,8 @@ using UnityEngine;
 
 public class ToJsonGameObject {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-        
+    void ExportCamera(GameObject ingo)
+	{
+
 	}
 }
