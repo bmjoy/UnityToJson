@@ -4,13 +4,8 @@ using UnityEngine;
 
 public class ToJsonAnimation {
 
-	// Use this for initialization
-	void Start () {
+	void Export(Animation ani)
+	{
 		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-        
 	}
 }

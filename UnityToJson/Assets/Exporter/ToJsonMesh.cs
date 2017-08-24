@@ -2,15 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ToJsonMesh {
-
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
+public class ToJsonMesh
+{
+    public void Export(Mesh mesh)
+    {
         
-	}
+    }
 }

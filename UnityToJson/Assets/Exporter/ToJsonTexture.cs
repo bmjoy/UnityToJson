@@ -4,13 +4,5 @@ using UnityEngine;
 
 public class ToJsonTexture {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-        
-	}
+	void Export(Texture2D tex2d){}
 }

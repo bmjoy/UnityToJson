@@ -4,8 +4,18 @@ using UnityEngine;
 
 public class ToJsonGameObject {
 
-    void ExportCamera(GameObject ingo)
+    void ExportCamera(GameObject go)
 	{
+		
 
+	}
+
+
+	void Exporter(Component component)
+	{
+	}
+
+	void Export(Transform transform)
+	{
 	}
 }

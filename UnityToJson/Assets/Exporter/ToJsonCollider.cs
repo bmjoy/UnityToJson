@@ -4,13 +4,11 @@ using UnityEngine;
 
 public class ToJsonCollider {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-        
-	}
+
+	void Export(BoxCollider boxcollider){}
+	void Export(SphereCollider boxcollider){}
+	void Export(TerrainCollider boxcollider){}
+	void Export(MeshCollider boxcollider){}
+	void Export(CapsuleCollider boxcollider){}
+
 }

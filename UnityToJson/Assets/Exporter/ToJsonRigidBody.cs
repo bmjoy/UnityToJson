@@ -4,13 +4,5 @@ using UnityEngine;
 
 public class ToJsonRigidBody {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-        
-	}
+
 }
