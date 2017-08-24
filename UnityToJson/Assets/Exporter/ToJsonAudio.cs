@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ToJsonAudio {
 
-	void Export(AudioSource audiosource)
+	void Export(JSONObject jsonobj, AudioSource audiosource)
 	{
 
 	}

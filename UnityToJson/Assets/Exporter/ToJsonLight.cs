@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ToJsonLight {
 
-	void Export(Light light)
+	void Export(JSONObject jsonobj, Light light)
 	{
 
 	}

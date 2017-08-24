@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ToJsonCamera 
 {
-    void ExportCamera(Camera incam)
+	void ExportCamera(JSONObject jsonobj, Camera incam)
     {
         
     }

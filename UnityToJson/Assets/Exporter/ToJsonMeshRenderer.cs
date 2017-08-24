@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ToJsonMeshRenderer {
 
-    void Export(MeshRenderer mrender)
+	void Export(JSONObject jsonobj, MeshRenderer mrender)
     {
         
     }

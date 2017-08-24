@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ToJsonAnimationClip {
 
-    void Export(AnimationClip clip)
+	void Export(JSONObject jsonobj, AnimationClip clip)
     {
         
     }

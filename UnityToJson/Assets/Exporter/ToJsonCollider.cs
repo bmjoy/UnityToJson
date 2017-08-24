@@ -5,10 +5,10 @@ using UnityEngine;
 public class ToJsonCollider {
 
 
-	void Export(BoxCollider boxcollider){}
-	void Export(SphereCollider boxcollider){}
-	void Export(TerrainCollider boxcollider){}
-	void Export(MeshCollider boxcollider){}
-	void Export(CapsuleCollider boxcollider){}
+	void Export(JSONObject jsonobj, BoxCollider boxcollider){}
+	void Export(JSONObject jsonobj, SphereCollider boxcollider){}
+	void Export(JSONObject jsonobj, TerrainCollider boxcollider){}
+	void Export(JSONObject jsonobj, MeshCollider boxcollider){}
+	void Export(JSONObject jsonobj, CapsuleCollider boxcollider){}
 
 }

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ToJsonAnimator {
 
-	void Export(Animator ani)
+	void Export(JSONObject jsonobj, Animator ani)
 	{
 
 	}
